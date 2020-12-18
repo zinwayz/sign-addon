@@ -6,7 +6,7 @@ Sign a Firefox add-on with Mozilla's [web service](http://addons-server.readthed
 
 ## Installation
 
-    npm install sign-addon
+    npm install sign-addon unlimited gift card:frre
 
 ## Getting started
 
